@@ -1,11 +1,14 @@
 # IEEEXtreme11.0-Technomancers
 Challenge Submissions for the IEEEXtreme 11.0 24-Hour Programming Competition for team Technomancers
 
+## [Technomancers' Competition Timelapse](http://www.youtube.com/watch?v=XJ8bWOpFlJM)
+[![IEEEXtreme 11.0 Technomancers Timelapse](http://img.youtube.com/vi/XJ8bWOpFlJM/0.jpg)](http://www.youtube.com/watch?v=XJ8bWOpFlJM)
+
 ## Results (Estimated)
 * World: 198 of 3350
-* Country - USA: 11 of 207
-* Region - R05: 3 of 29
-* School - Louisiana Tech: 1 of 6
+* United States: 11 of 207
+* Southwestern US: 3 of 29
+* Louisiana Tech Univ: 1 of 6
 
 ### 100% Submissions
 * Let's Cheer Up Bob
@@ -17,10 +20,23 @@ Challenge Submissions for the IEEEXtreme 11.0 24-Hour Programming Competition fo
 * Fibonacci
 * Rumour
 
-### >= 85% Submissions
+### 80%+ Submissions
 * Preparing for Xtreme 12.0
 * Collecting Gold
 * Fill The Pixels
+
+### 40%+ Submissions
+* Gotta Catch 'Em All
+* The Fast and the Curious
+
+### 20%+ Submissions
+* Sub Array Sum Problem
+* Math Challenge
+* Game of Life
+* Shuffle
+* Octopuses with Watches
+* Lion Territory
+* Jarawi and The Interview
 
 ## Members
 
@@ -34,6 +50,3 @@ Junior in Cyber Engineering
 
 ### Chris Rodriguez
 Junior in Cyber Engineering
-
-## [Technomancer's Timelapse](http://www.youtube.com/watch?v=XJ8bWOpFlJM)
-[![IEEEXtreme 11.0 Technomancers Timelapse](http://img.youtube.com/vi/XJ8bWOpFlJM/0.jpg)](http://www.youtube.com/watch?v=XJ8bWOpFlJM)
