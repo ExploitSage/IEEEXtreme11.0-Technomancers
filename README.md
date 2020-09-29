@@ -49,5 +49,5 @@ Junior in Cyber Engineering
 [Github](https://github.com/JoshuaOsborneCYEN)
 
 ### Chris Rodriguez
-Junior in Cyber Engineering
+Junior in Cyber Engineering  
 [Github](https://github.com/chrizrodz)
