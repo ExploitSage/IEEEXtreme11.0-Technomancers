@@ -42,7 +42,7 @@ Challenge Submissions for the IEEEXtreme 11.0 24-Hour Programming Competition fo
 
 ### Gustave Michel III
 Senior in Computer Science  
-[Github](https://github.com/gustavemichel)
+[Github](https://github.com/gurustave)
 
 ### Joshua Osborne
 Junior in Cyber Engineering  
@@ -50,3 +50,4 @@ Junior in Cyber Engineering
 
 ### Chris Rodriguez
 Junior in Cyber Engineering
+[Github](https://github.com/chrizrodz)
