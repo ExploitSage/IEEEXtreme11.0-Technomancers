@@ -3,8 +3,8 @@ Challenge Submissions for the IEEEXtreme 11.0 24-Hour Programming Competition.
 
 The Technomancers is a three student Undergraduate team from Louisiana Tech University.
 
-## [Technomancers' Competition Timelapse](http://www.youtube.com/watch?v=XJ8bWOpFlJM)
-[![IEEEXtreme 11.0 Technomancers Timelapse](http://img.youtube.com/vi/XJ8bWOpFlJM/0.jpg)](http://www.youtube.com/watch?v=XJ8bWOpFlJM)
+## [Technomancers' Competition Timelapse](https://www.youtube.com/watch?v=XJ8bWOpFlJM)
+[![IEEEXtreme 11.0 Technomancers Timelapse](https://img.youtube.com/vi/XJ8bWOpFlJM/0.jpg)](https://www.youtube.com/watch?v=XJ8bWOpFlJM)
 
 ## Ranking
 * World: 190 of 2121
